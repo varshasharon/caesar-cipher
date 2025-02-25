@@ -15,7 +15,7 @@ HTML – Structure of the webpage
 CSS – Styling and layout
 JavaScript – Encryption logic and interactivity
 
-### Thought Process & Implementation'
+### Thought Process & Implementation
 
 #### Concept & Inspiration
 I wanted to create a simple yet interactive encryption tool that allows users to explore the Caesar Cipher in an easy-to-understand manner. The goal was to design a visually appealing website while keeping the encryption process clear and intuitive.
