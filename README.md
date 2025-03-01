@@ -1,7 +1,7 @@
 ## Caesar Cipher Encoder
 
 ### Introduction
-The Caesar Cipher Encoder is a simple web-based encryption tool that helps users encode their messages using the Caesar cipher, one of the oldest and simplest encryption techniques. This project provides an intuitive user interface for encrypting text by shifting letters based on a given key.
+The Caesar Cipher Encoder is a simple web-based encryption tool that helps users encode their messages using the Caesar cipher, one of the oldest and simplest encryption techniques. This project provides an intuitive user interface for encrypting text by shifting letters based on a given key. 
 
 ### Features
 - User-friendly UI with step-by-step encryption process
