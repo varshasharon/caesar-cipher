@@ -34,4 +34,7 @@ The core functionality is written in JavaScript:
 3. Click the Encrypt button
 4. View your encrypted message
 
-Check out the website on: https://varshasharon.github.io/caesar-cipher/
+![image](https://github.com/user-attachments/assets/25bf737e-21cf-481a-98f3-fdc176420e86)
+
+
+#### Check out the website on: https://varshasharon.github.io/caesar-cipher/
