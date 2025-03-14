@@ -34,6 +34,8 @@ The core functionality is written in JavaScript:
 3. Click the Encrypt button
 4. View your encrypted message
 
+![image](https://github.com/user-attachments/assets/f0170c84-3e68-449f-ae9a-6eadb97d63df)
+
 ![image](https://github.com/user-attachments/assets/25bf737e-21cf-481a-98f3-fdc176420e86)
 
 
